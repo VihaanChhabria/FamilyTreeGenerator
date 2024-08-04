@@ -1,16 +1,16 @@
 from enum import Enum as _Enum
 
 class RelationshipTypes(_Enum):
-    SIBLING = "SIBLING"
-    COUSIN = "COUSIN"
+    SIBLING = "Sibling"
+    COUSIN = "Cousin"
 
-    MARRIED = "MARRIED"
+    MARRIED = "Married"
     
-    GREAT_GRANDPARENT = "GREAT_GRANDPARENT"
-    GRANDPARENT = "GRANDPARENT"
-    PARENT = "PARENT"
+    GREAT_GRANDPARENT = "Great Grandparent"
+    GRANDPARENT = "Grandparent"
+    PARENT = "Parent"
 
-    GREAT_PIBLING = "GREAT_PIBLING"
-    AUNT_UNCLE = "PIBLING" 
+    GREAT_PIBLING = "Great Pibling"
+    AUNT_UNCLE = "Pibling" 
 
-    CHILD = "CHILD"
+    CHILD = "Child"
