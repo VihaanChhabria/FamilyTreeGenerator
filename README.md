@@ -30,3 +30,9 @@ venv\Scripts\activate.bat  # Windows (activate the environment)
 ```
 pip install -r requirements.txt
 ```
+
+## Todo
+- separate people into generations
+- find way to draw family tree
+- make gui
+- add a info system (you hover/click a person and it tells birth, death, full name, ...)
